@@ -31,8 +31,11 @@ There is very strong evidence (p < 0.0001) suggesting that fencing and site inte
 Team Members: Maria Buist, Vuy Chao, Luke Monsma, Zachary Lindemulder
 Raw data provided by Matt Dystra at Calvin University and Pierce Cedar Creek Institute. 
 Project recieved guidance from Professor Stacy DeRuiter at Calvin University. 
-##### Note:
+#### Note:
 Analysis are done through Posit using R programming language. 
+
 All Right Reserved
+
 **Check out *poster.html* to view Presentable Poster**
+
 **Check out *TechReport.html* for more detail on Data Analysis, Model, and Assessments**
